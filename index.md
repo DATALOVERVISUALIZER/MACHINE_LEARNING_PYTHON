@@ -1,7 +1,7 @@
 
 # TABLEAU DATA VISUALIZATION
 
-***The Progress Journal of LEYLA YİĞİT
+## The Progress Journal of LEYLA YİĞİT
 
 ***
 ***
