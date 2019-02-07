@@ -1,6 +1,3 @@
-
-# PYTHON AND MACHINE LEARNING DATA ANALYSIS
-
 ## The Progress Journal of LEYLA YİĞİT
 
 ***
