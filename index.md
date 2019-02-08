@@ -1,6 +1,6 @@
 ## The Progress Journal of LEYLA YİĞİT
 
-![Screenshot](data-visualizations-using-python-1-638.jpg)
+![Screenshot](PyData_Stack.png)
 
 ***
 ***
