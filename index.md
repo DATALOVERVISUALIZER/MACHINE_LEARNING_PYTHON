@@ -1,6 +1,6 @@
 ## The Progress Journal of LEYLA YİĞİT
 
-![Screenshot](pydata_stack (1).png)
+![Screenshot](pydata_stack.png)
 
 ***
 ***
