@@ -1,5 +1,7 @@
 ## The Progress Journal of LEYLA YİĞİT
 
+![Screenshot](maxresdefault.jpg)
+
 ***
 ***
 
