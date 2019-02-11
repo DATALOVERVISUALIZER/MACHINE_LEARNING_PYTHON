@@ -7,7 +7,11 @@
 
 **Below Codes are developed by using Pycharm.**
 
-[Click here for user input and file read and some functions ](https://github.com/DATALOVERVISUALIZER/MACHINE_LEARNING_PYTHON/blob/master/CODES/Complex_Functions.py) for py file.
+
+**Iris data set is used to Z_SCORE and MIN_MAX Normalization in order to prepare data for a data science project.
+Data manupulation is a key phase for Data science projects**
+
+[Click here for Python Machine Learning Exercise ](https://github.com/DATALOVERVISUALIZER/MACHINE_LEARNING_PYTHON/blob/master/CODES/Complex_Functions.py) for py file.
 
 
 [Click here for Define_Procedures](https://github.com/DATALOVERVISUALIZER/MACHINE_LEARNING_PYTHON/blob/master/CODES/Define_Procedures.py) for py file.
